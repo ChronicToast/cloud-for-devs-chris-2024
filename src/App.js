@@ -10,6 +10,7 @@ function App() {
       <h1>
         Today's date is 4/17/2024
       </h1>
+      <p>This git stuff is kind of intimidating</p>
     </>
     
   );
