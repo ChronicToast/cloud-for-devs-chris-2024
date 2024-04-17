@@ -9,7 +9,7 @@ function App() {
     <>
       <h1>
         Today's date is 4/17/2024
-    </h1>
+      </h1>
     </>
     
   );
